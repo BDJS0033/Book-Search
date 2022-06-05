@@ -86,7 +86,7 @@ git clone git@github.com:BDJS0033/Book-Search.git
 use *npm run develop* in command line
 ```
 
-[Heroku](https://safe-gorge-90093.herokuapp.com/)
+[Heroku](https://git.heroku.com/shielded-lowlands-42173.git)
 
 ## GitHub
 
